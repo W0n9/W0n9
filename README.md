@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on  
     - 🖥️Site Reliability Engineer at [Beijing University of Chemical Technology](https://www.buct.edu.cn).
-    - 🔬PostGraduate Researcher at 📡[Remote Sense Group @ BUCT](https://cmp.buct.edu.cn/2020/0713/c3922a129276/page.htm).
+    - 🔬PostGraduate Researcher at 📡[Remote Sense Group, Department of Physics, Beijing University of Chemical Technology](https://cmp.buct.edu.cn/2020/0713/c3922a129276/page.htm).
     - 🌏[Caddy Server](https://github.com/caddyserver/caddy)
 
 - 🌱 I’m currently learning 
