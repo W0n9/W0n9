@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on  
     - 🔬M.S Physics Student at [Beijing University of Chemical Technology](https://www.buct.edu.cn).
-    - 🖥️Site Reliability Engineer as a part-time job.
+    - 🖥️Site Reliability Engineer as a part-time job in Information Technology Center, BUCT.
 
 - 🌱 I’m currently learning 
     - [Golang](https://golang.org/) for server side programming.
