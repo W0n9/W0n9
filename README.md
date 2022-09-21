@@ -1,14 +1,12 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on  
-    - 🖥️Site Reliability Engineer at [Beijing University of Chemical Technology](https://www.buct.edu.cn).
-    - 🔬PostGraduate Researcher at 📡[Remote Sense Group, Department of Physics, Beijing University of Chemical Technology](https://cmp.buct.edu.cn/2020/0713/c3922a129276/page.htm).
-    - 🌏[Caddy Server](https://github.com/caddyserver/caddy)
+    - 🔬M.S Physics Student at [Beijing University of Chemical Technology](https://www.buct.edu.cn).
+    - 🖥️Site Reliability Engineer as a part-time job.
 
 - 🌱 I’m currently learning 
     - [Golang](https://golang.org/) for server side programming.
     - [Python](https://www.python.org/), [TensorFlow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/) for data science.
-    - [Cloud Native Computing](https://www.cncf.io/) for serverless computing.  
 
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=w0n9&layout=compact)
 
