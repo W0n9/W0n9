@@ -8,9 +8,15 @@
     - [Golang](https://golang.org/) for server side programming.
     - [Python](https://www.python.org/), [TensorFlow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/) for data science.
 
+<details>
+<summary>📈 My GitHub Stats</summary>
+
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=w0n9&layout=compact)
 
 [![Sithu's github stats](https://github-readme-stats.vercel.app/api?username=w0n9&show_icons=true&theme=buefy&hide=prs,issues)](https://github.com/w0n9)  
+
+</details>  
+
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=w0n9.w0n9)
 
 <!--
