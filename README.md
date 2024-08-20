@@ -5,8 +5,10 @@
     - 🖥️Site Reliability Engineer as a part-time job in Information Technology Center, BUCT.
 
 - 🌱 I’m currently learning 
-    - [Golang](https://golang.org/) for server side programming.
-    - [Python](https://www.python.org/), [TensorFlow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/) for data science.
+    - [Python](https://www.python.org/) and [Golang](https://golang.org/) for server side programming.
+    - [DuckDB](https://duckdb.org), [Polars](https://github.com/pola-rs/polars) and [PyTorch](https://pytorch.org) for data science.
+
+- ⚠️ Right now I'm looking for Campus Recruitment Job Opportunities of SRE or Server Side Programming, 2025!!
 
 <details>
 <summary>📈 My GitHub Stats</summary>
